@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PapoLegalCliente/PapoLegalCliente.iml" filepath="$PROJECT_DIR$/../PapoLegalCliente/PapoLegalCliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PapoLegalServidor.iml" filepath="$PROJECT_DIR$/PapoLegalServidor.iml" />
+    </modules>
+  </component>
+</project>
